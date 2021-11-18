@@ -9,6 +9,7 @@
   "author": "",
   "license": "CC0-1.0",
   "devDependencies": {
+    "plausible-tracker": "file:plausible-tracker",
     "ts-loader": "^9.2.6",
     "typescript": "^4.5.2",
     "webpack": "^5.64.1",
